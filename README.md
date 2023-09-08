@@ -5,7 +5,7 @@
 Textit es una plataforma que permite crear y gestionar flujos de mensajes para aplicaciones de mensajería. Para importar un JSON de flujos de mensajes a Textit, debes seguir estos pasos generales:
 
 
-1. Crear una cuenta en TextIt: Puedes acceder a la plataforma en el siguiente enlace (TextIT)[https://textit.com/]
+1. Crear una cuenta en TextIt: Puedes acceder a la plataforma en el siguiente enlace [https://textit.com/ "TextIt"]
 
 2. Iniciar sesión en tu cuenta: Accede a tu cuenta de Textit en el sitio web de la plataforma.
 
